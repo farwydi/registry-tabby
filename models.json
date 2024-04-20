@@ -1,5 +1,14 @@
 [
   {
+    "name": "CodeLlama-70b-hf",
+    "provider_url": "https://huggingface.co/meta-llama/CodeLlama-70b-hf",
+    "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
+    "urls": [
+      "https://huggingface.co/TheBloke/CodeLlama-70B-hf-GGUF/resolve/main/codellama-70b-hf.Q5_K_S.gguf"
+    ],
+    "sha256": "e8f9178ea9017fcb12de09fbfa20c93b9e27df5dafbe63236afe180449185c7e"
+  },
+  {
     "name": "Mixtral-8x22B-v0.1-Q5_K_S",
     "provider_url": "https://huggingface.co/mistralai/Mixtral-8x22B-v0.1",
     "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",

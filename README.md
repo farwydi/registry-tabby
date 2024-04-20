@@ -11,6 +11,7 @@ We have published benchmarks for these models on https://leaderboard.tabbyml.com
 
 | Model ID | License |
 | -------- | ------- |
+| [TabbyML/CodeLlama-70b-hf](https://huggingface.co/meta-llama/CodeLlama-70b-hf) | []() |
 | [TabbyML/Mixtral-8x22B-v0.1-Q5_K_S](https://huggingface.co/mistralai/Mixtral-8x22B-v0.1) | []() |
 | [TabbyML/StarCoder-1B](https://huggingface.co/bigcode/starcoderbase-1b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
 | [TabbyML/StarCoder-3B](https://huggingface.co/bigcode/starcoderbase-3b) | [BigCode-OpenRAIL-M](https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement) |
