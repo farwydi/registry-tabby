@@ -1,5 +1,14 @@
 [
   {
+    "name": "Mixtral-8x22B-v0.1",
+    "provider_url": "https://huggingface.co/mistralai/Mixtral-8x22B-v0.1",
+    "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
+    "urls": [
+      "https://huggingface.co/bartowski/Mixtral-8x22B-v0.1-GGUF/raw/main/Mixtral-8x22B-v0.1-Q5_K_S-00001-of-00005.gguf"
+    ],
+    "sha256": "1e6d8e22a8c47df54acb6392eaf60f6f97fd70b930254e09deef646e812bff67"
+  },
+  {
     "license_name": "BigCode-OpenRAIL-M",
     "license_url": "https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement",
     "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
