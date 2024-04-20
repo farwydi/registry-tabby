@@ -1,6 +1,6 @@
 [
   {
-    "name": "CodeLlama-70b-hf",
+    "name": "CodeLlama-70b-Q5_K_S",
     "provider_url": "https://huggingface.co/meta-llama/CodeLlama-70b-hf",
     "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
     "urls": [
